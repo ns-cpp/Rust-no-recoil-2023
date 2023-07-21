@@ -16,9 +16,10 @@ TR: güncellenmiş geri tepme tabloları ile rust norecoil
 - Change scope with one button
 - All weapons added
 
-  ## TR: Özellikler
+  
+## TR: Özellikler
 
-  - Bütün dürbünler ile uyumlu.
-  - Tek tuşla silah değiştirme.
-  - Tek tuşla dürbün değiştirme.
-  - Bütün silahlar eklendi.
+- Bütün dürbünler ile uyumlu.
+- Tek tuşla silah değiştirme.
+- Tek tuşla dürbün değiştirme.
+- Bütün silahlar eklendi.
