@@ -23,3 +23,7 @@ TR: güncellenmiş geri tepme tabloları ile rust norecoil
 - Tek tuşla silah değiştirme.
 - Tek tuşla dürbün değiştirme.
 - Bütün silahlar eklendi.
+
+## Discord
+
+- ns.cpp
