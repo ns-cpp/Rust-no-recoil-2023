@@ -11,8 +11,14 @@ TR: güncellenmiş geri tepme tabloları ile rust norecoil
 
 ## EN: Features
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+- Compatible with all scopes
+- Change weapons with one button.
+- Change scope with one button
+- All weapons added
+
+  ## TR: Özellikler
+
+  - Bütün dürbünler ile uyumlu.
+  - Tek tuşla silah değiştirme.
+  - Tek tuşla dürbün değiştirme.
+  - Bütün silahlar eklendi.
